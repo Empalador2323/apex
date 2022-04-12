@@ -1,3 +1,0 @@
-este ya no es hola mundo xd 
-agregue otra linea para modificar 
-se agrego otra linea para ver el otro metodo de commit 
